@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944746642511",
+    "project_id": "expopushnotifications-c6e5e",
+    "storage_bucket": "expopushnotifications-c6e5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944746642511:android:92b1eb0cde7b7afba5be3a",
+        "android_client_info": {
+          "package_name": "com.umar.rasheed.mebest.ExpoPushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBj0eaE4sgfdFZb3swKtz74EhGycwF2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
